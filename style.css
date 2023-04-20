@@ -1,0 +1,18 @@
+
+		form {
+			max-width: 600px;
+			margin: 0 auto;
+			padding: 20px;
+			background-color: #f7f7f7;
+			border-radius: 5px;
+			box-shadow: 0px 0px 5px 0px #ccc;
+		}
+		h1 {
+			text-align: center;
+		}
+		label {
+			font-weight: bold;
+		}
+		textarea {
+			min-height: 100px;
+		}
